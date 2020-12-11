@@ -10,6 +10,7 @@ To install and run this project you will need to also download some external pro
 * Go to https://github.com/CyberBotX/fsb5_split and compile the source. Rename the compiled program to `fsb5_split.exe` and drop it into the `dependencies` folder.
 * Go to https://zenhax.com/viewtopic.php?t=1901 and download `fmod_extractors.rar` and `fmod_dlls.rar`. Extract `fsb_aud_extr.exe` and `fmodL.dll` into the `dependencies` folder.
 * Your `dependencies` folder should look like the image below:
+
 ![image](https://user-images.githubusercontent.com/37064691/101847366-30d86f80-3ba7-11eb-9683-aca16ed12af4.png)
 
 ## How to Use ##
