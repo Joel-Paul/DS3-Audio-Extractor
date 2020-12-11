@@ -11,7 +11,8 @@ To install and run this project you will need to also download some external pro
 * Go to https://zenhax.com/viewtopic.php?t=1901 and download `fmod_extractors.rar` and `fmod_dlls.rar`. Extract `fsb_aud_extr.exe` and `fmodL.dll` into the `dependencies` folder.
 * Your `dependencies` folder should look like the image below:
 
-![image](https://user-images.githubusercontent.com/37064691/101847366-30d86f80-3ba7-11eb-9683-aca16ed12af4.png)
+![image](https://user-images.githubusercontent.com/37064691/101847680-e6a3be00-3ba7-11eb-969a-afa51113a0d0.png)
+
 
 ## How to Use ##
 You can either double-click the Python file or run it through the command line.
